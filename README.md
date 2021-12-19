@@ -38,7 +38,7 @@ CAMERA HACK is a bash based script which is officially made for termux from this
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/grabcam`
+* `git clone https://github.com/Guillermo653/hack-de-camra-de-dispositibos-mobiles`
 * `cd $HOME`
 * `ls`
 * `cd grabcam`

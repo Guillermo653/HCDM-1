@@ -1,17 +1,14 @@
 <p align="center">
-<a href="https://bit.ly/2BNk3P1"><img title="Made in URUGUAY" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://bit.ly/2BNk3P1"><img title="Made in URUGUAY" src="https://imgr.search.brave.com/KucPhpju_oI9VRSFGs6tXRxfVfhBPEfjsvO2_IkzQ9c/fit/600/600/ce/1/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNzM2/eC82Ni9lOS8zZS82/NmU5M2U2YmI0YmM1/NzdkMzIzMmFjMDA2/NjcyMTA5YS5qcGc"></a>
 </p>
 
-<
-<a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p>
+
 
 ## ABOUT TOOL :
 
 CAMERA HACK is a bash based script which is officially made for termux from this tool can hack you victims camera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
 
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
-</p>
+
 
 ## AVAILABLE ON :
 
